@@ -1,1 +1,1 @@
-{"name":"faas","type":"prometheus","access":"proxy","url":"http://prometheus:9090","isDefault":true}
+{"name":"faas","type":"prometheus","access":"proxy","url":"http://func_prometheus:9090","isDefault":true}
